@@ -1,2 +1,2 @@
 # DeepLearning
-My learning curve
+My learning curve.
